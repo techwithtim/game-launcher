@@ -1,7 +1,9 @@
 
 # Game Launcher
 
-Game Launcher is a python + pygame application that hosts my various projects that I coded in Python throughout the years.
+Game Launcher is a python + pygame application that hosts various pygame games.
+
+Games coded in Python by Tim Ruscica: https://github.com/timisgreat3579
 
 It includes:
 
